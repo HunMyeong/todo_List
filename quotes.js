@@ -1,16 +1,16 @@
 
 const quotes = [
     {
-        quote: "일",
-        author: "1",
+        quote: "노진성",
+        author: "노 자신을 알라",
     },
     {
-        quote: "이",
-        author: "2",
+        quote: "노진성",
+        author: "노 자신을 알라",
     },
     {
-        quote: "일",
-        author: "1",
+        quote: "노진성",
+        author: "노 자신을 알라",
     },
     {
         quote: "이",
